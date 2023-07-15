@@ -20,8 +20,10 @@ In this tab, you configure the basic settings for the banner such as name, statu
 
 ## Banner Targeting
 
+**Expected URL format**: Enter the URL starting from "/" after the host URL. For example, if you want to include example-shop.com, example-shop.com/products/product-1, requires input URL of  "/" and "/products/product-1".
+
 1. **Include Custom URL**: Enter the URL pattern for pages where the banner is displayed.
-2. **Show on Pages:**: Types of Shopify pages where the banner is displayed.
-3. **Exlude Custom URL:**: Enter the URL pattern for pages where the banner is hidden.
+2. **Show on Pages**: Types of Shopify pages where the banner is displayed.
+3. **Exlude Custom URL**: Enter the URL pattern for pages where the banner is hidden.
 4. **Show on Devices**: Select devices such as mobile, tablet, and desktop where the banner is displayed.
 

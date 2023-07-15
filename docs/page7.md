@@ -10,6 +10,11 @@ In this tab, you can customize the visibility and position of banner elements.
 3. **Show Close Button**: Set an option to allow users to close the banner.
 4. **Hide after Close**: The banner is hidden for subsequent page views once a user closes the banner only for that particular user.
 
+## Geolocation Visibility
+
+1. **Display to Visitors From**: List of countries where banners will be displayed based on visitor locations. By default, a banner is displayed in all countries.
+2. **Translate Content"**: If true, the banner message, button text, etc is translated into the visitor's local language.  
+
 ## Visibility Duration
 
 1. **Start Date**: Select the UTC date after which the banner should start appearing for the user.
