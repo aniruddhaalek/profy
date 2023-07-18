@@ -15,14 +15,14 @@ theme:
   palette:
     - scheme: slate
       toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode    
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode  
       primary: purple
       accent: lime
     - scheme: default
       toggle:
-        icon: material/toggle-switch-off-outline 
-        name: Switch to dark mode
+        icon: material/toggle-switch
+        name: Switch to light mode 
       primary: purple
       accent: lime
 extra_css:
