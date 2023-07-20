@@ -1,5 +1,6 @@
-Demo site url: https://anirutest2.myshopify.com/
-Password: demo
+**Demo site url:** https://anirutest2.myshopify.com/
+
+**Password:** demo
 
 ## Announcement Banner
 
