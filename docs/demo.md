@@ -1,22 +1,23 @@
-**Demo site url:** https://anirutest2.myshopify.com/
+**Demo site url:** 
+<a href="https://anirutest2.myshopify.com/" target="_blank">https://anirutest2.myshopify.com/</a>
 
 **Password:** demo
 
 ## Announcement Banner
 
-sticky: https://anirutest2.myshopify.com/
+sticky: <a href="https://anirutest2.myshopify.com/" target="_blank">https://anirutest2.myshopify.com/</a>
 
-non-sticky: https://anirutest2.myshopify.com/collections/all
+non-sticky: <a href="https://anirutest2.myshopify.com/collections/all" target="_blank">https://anirutest2.myshopify.com/collections/all</a>
 
 ## Countdown Timer
 
-https://anirutest2.myshopify.com/cart
+<a href="https://anirutest2.myshopify.com/cart" target="_blank">https://anirutest2.myshopify.com/cart</a>
 
 ## Coupon Bar
 
-https://anirutest2.myshopify.com/products/product1
+<a href="https://anirutest2.myshopify.com/products/product1" target="_blank">https://anirutest2.myshopify.com/products/product1</a>
 
 ## Popup Bar
 
-https://anirutest2.myshopify.com/products/product-1
+<a href="https://anirutest2.myshopify.com/products/product-1" target="_blank">https://anirutest2.myshopify.com/products/product-1</a>
 
