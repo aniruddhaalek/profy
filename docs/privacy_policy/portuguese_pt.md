@@ -1,4 +1,4 @@
-# Política de Privacidade em Português
+# Informativa sulla privacy in portoghese - Portogallo
 
 ### Política de Privacidade
 Última Atualização: 18 de julho de 2023
