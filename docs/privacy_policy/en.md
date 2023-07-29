@@ -1,4 +1,4 @@
-# Privacy Policy for Profy
+# Privacy Policy in English
 
 ### Privacy Policy
 Last updated: July 18, 2023
