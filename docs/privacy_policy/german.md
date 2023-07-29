@@ -1,4 +1,4 @@
-# Datenschutzrichtlinie auf Englisch
+# Datenschutzbestimmungen auf Deutsch
 
 ### Datenschutz-Bestimmungen
 Letzte Aktualisierung: 18. Juli 2023

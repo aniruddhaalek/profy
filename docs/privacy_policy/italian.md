@@ -1,4 +1,4 @@
-# Informativa sulla privacy in inglese
+# Informativa sulla privacy in italiano
 
 ### Politica sulla riservatezza
 Ultimo aggiornamento: 18 luglio 2023

@@ -1,4 +1,4 @@
-# Política de privacidad en inglés
+# Política de privacidad en español
 
 ### Política de privacidad
 Última actualización: 18 de julio de 2023
