@@ -7,4 +7,4 @@ Profy announcement banner allows you to create and customize banners based on yo
 3. **Countdown Bar:** Display countdown timer with expiration date along with announcement text.
 4. **Popup Bar:**: Display a popup with custom width and height.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UiUk4bZsRt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lLg5NXs469o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
