@@ -28,29 +28,33 @@ You can search for a banner in the following ways:
 1) **Enter the Banner name as the query for the search box.**
 ![banner search](https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/banner_search.png)
 
-2) **Type of the banner.** 
+2) **Select filters**
 
-<img src="https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/banner_type_filter.png" alt="banner type" width="400"/>
+<img src="https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/banner_filters.png" alt="banner type" width="340"/>
 
-3) **Status of the banner (active/inactive).**
+3) **Filter by banner Type.** 
 
-<img src="https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/banner_status_filter.png" alt="banner status" width="500"/>
+<img src="https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/banner_type_filter.png" alt="banner type" width="340"/>
+
+4) **Filter by banner Status (active/inactive).**
+
+<img src="https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/banner_status_filter.png" alt="banner status" width="340"/>
+
+5) **Add multiple filters**
+
+<img src="https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/add_filter.png" alt="multi filter" width="380"/>
 
 ## Clear/Reset filters
 
 You can clear/Reset any applied filter by selecting the clear button in the filter menu.
 
-*Clear filter tags*
-
-![clear filter](https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/clear_filter.png)
-
 *Clear banner type filter*
 
 <img src="https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/clear_banner_type.png" alt="clear banner type" width="500"/>
 
-*Clear banner status filter*
+*Clear filter tags*
 
-<img src="https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/clear_status_filter.png" alt="clear status filter" width="500"/>
+<img src="https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/clear_filter.png" alt="clear all filter" width="500"/>
 
 ## Pagination
 
