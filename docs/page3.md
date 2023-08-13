@@ -40,4 +40,8 @@ Whenever the delete option is selected, a modal for confirmation is displayed.
 
 <img src="https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page3/delete_banner.png" alt="delete banner" width="500" />
 
+## Duplicate banner
+
+This action will create a replica of banner that is duplicated. A banner can be duplicated from "More actions" list in banner edit page or "Action" dropdown of banner table.
+
 
