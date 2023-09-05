@@ -3,21 +3,33 @@
 
 **Password:** demo
 
-## Announcement Banner
+## Countdown Timer Bar
 
-sticky: <a href="https://anirutest2.myshopify.com/" target="_blank">https://anirutest2.myshopify.com/</a>
+<a href="https://anirutest2.myshopify.com/" target="_blank">https://anirutest2.myshopify.com/</a>
 
-non-sticky: <a href="https://anirutest2.myshopify.com/collections/all" target="_blank">https://anirutest2.myshopify.com/collections/all</a>
+## Countdown Timer Popup
 
-## Countdown Timer
-
-<a href="https://anirutest2.myshopify.com/cart" target="_blank">https://anirutest2.myshopify.com/cart</a>
+<a href="https://anirutest2.myshopify.com/collections/all" target="_blank">https://anirutest2.myshopify.com/collections/all</a>
 
 ## Coupon Bar
 
-<a href="https://anirutest2.myshopify.com/products/product1" target="_blank">https://anirutest2.myshopify.com/products/product1</a>
+<a href="https://anirutest2.myshopify.com/products/classic-leather-jacket" target="_blank">https://anirutest2.myshopify.com/products/classic-leather-jacket</a>
 
-## Popup Bar
+## Coupon Popup
 
-<a href="https://anirutest2.myshopify.com/products/product-1" target="_blank">https://anirutest2.myshopify.com/products/product-1</a>
+<a href="https://anirutest2.myshopify.com/products/black-leather-bag" target="_blank">https://anirutest2.myshopify.com/products/black-leather-bag</a>
+
+## Announcement Banner
+
+sticky: <a href="https://anirutest2.myshopify.com/products/blue-silk-tuxedo" target="_blank">https://anirutest2.myshopify.com/products/blue-silk-tuxedo</a>
+
+non-sticky: <a href="https://anirutest2.myshopify.com/products/chequered-red-shirt" target="_blank">https://anirutest2.myshopify.com/products/chequered-red-shirt</a>
+
+## Half Page Countdown Timer
+
+<a href="https://anirutest2.myshopify.com/products/classic-varsity-top" target="_blank">https://anirutest2.myshopify.com/products/classic-varsity-top</a>
+
+## Full page Popup Bar
+
+<a href="https://anirutest2.myshopify.com/products/dark-denim-top" target="_blank">https://anirutest2.myshopify.com/products/dark-denim-top</a>
 
