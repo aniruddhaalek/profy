@@ -17,7 +17,7 @@ In this tab, you can customize the visibility and position of banner elements.
 
 ## Visibility Duration
 
-1. **Start Date**: Select the UTC date after which the banner should start appearing for the user.
-2. **End Date**: Select the UTC date after which the banner should be hidden from the user.
+1. **Start Date**: Select the date (Your Time Zone) after which the banner should start appearing for the user.
+2. **End Date**: Select the date (Your Time Zone) after which the banner should be hidden from the user.
 3. **Show after**: Number of seconds delay to display the banner.
 4. **Hide after**: Number of seconds after which the banner should be hidden.

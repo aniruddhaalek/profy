@@ -10,7 +10,7 @@ A countdown banner is configured from the "Countdown Setup" tab.
   2. **Duration**: The countdown time is the time lapsed from the total duration based on the banner start date.
   3. **Every day on Specific hours**: The banner is only displayed when the current date is between the start and end hour window. The countdown time is the difference current date and the end hour.
 ### End date
-UTC date when the countdown ends and after which the banner is hidden.
+Date(Your Time Zone) when the countdown ends and after which the banner is hidden.
 
 ### Select Start & End time
 Start and end timer for time window countdown.
