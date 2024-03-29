@@ -29,7 +29,7 @@ In this tab, you configure the basic settings for the banner such as name, statu
 
 ## Advanced Targeting
 
-1. **Display on Product pages under Collection URL:**: Display only on or hide banners from product pages which belongs to input Collection URLS. For example: If we want to display a banner on all product pages under "Collection1" collection. Then the input url will be the URL of "Collection1" collection 'https://mystore.myshopify.com/collections/collection1' . 
+1. **Display on Product pages under Collection URL:** Display only on or hide banners from product pages which belongs to input Collection URLS. For example: If we want to display a banner on all product pages under "Collection1" collection. Then the input url will be the URL of "Collection1" collection 'https://mystore.myshopify.com/collections/collection1' . 
 
-2. **Display for Customers with Tag:**: Display only on or hide banners from logged in customer based on their tags. Please refer this article for more info: https://help.shopify.com/en/manual/customers/manage-customers 
+2. **Display for Customers with Tag:** Display only on or hide banners from logged in customer based on their tags. Please refer this article for more info: https://help.shopify.com/en/manual/customers/manage-customers 
 
